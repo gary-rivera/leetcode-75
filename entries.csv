@@ -1,4 +1,3 @@
-Name,Category,Tags,Link,Learned,Reinforced,Video Solution
 Two Sum,Arrays,,https://leetcode.com/problems/two-sum/,,,https://youtu.be/KLlXCFG5TnA
 Best Time to Buy and Sell Stock,Arrays,,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,,,https://youtu.be/1pkOgXD63yU
 Contains Duplicate,Arrays,,https://leetcode.com/problems/contains-duplicate/,,,https://youtu.be/3OamzN90kPg
@@ -76,4 +75,5 @@ Word Search II,Tree,,https://leetcode.com/problems/word-search-ii/,,,https://you
 Merge K Sorted Lists,Heap,,https://leetcode.com/problems/merge-k-sorted-lists/,,,https://youtu.be/q5a5OiGbT6Q
 Top K Frequent Elements,Heap,,https://leetcode.com/problems/top-k-frequent-elements/,,,https://youtu.be/YPTqKIgVk-k
 Find Median from Data Stream,Heap,,https://leetcode.com/problems/find-median-from-data-stream/,,,https://youtu.be/itmhHWaHupI
-Find Pivot Index,Prefix Sum,mathematic tracking,https://leetcode.com/problems/find-pivot-index/?envType=study-plan-v2&envId=leetcode-75,"How to optimize managing a running total instead of searching prefix and postfix sums for each element. ","Leveraging reducer for a total sum. However I did use this to constantly track the rightSum exlcusive of current index. ",
+Find Pivot Index,Prefix Sum,"mathematic tracking, array traversal",https://leetcode.com/problems/find-pivot-index/?envType=study-plan-v2&envId=leetcode-75,"How to optimize managing a running total instead of searching prefix and postfix sums for each element. ","Leveraging reducer for a total sum. However I did use this to constantly track the rightSum exlcusive of current index. ",
+Unique Number of Occurrences,HashMap,"HashMap, HashSet",https://leetcode.com/problems/unique-number-of-occurrences/submissions/1473241859/?envType=study-plan-v2&envId=leetcode-75,"Wasnt the most optimal solution but leveraging multiple sets to track unique occurrences count as well as unique elements. ",Sets in general as a practice,
